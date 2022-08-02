@@ -5,7 +5,7 @@ in my website i create webstore that help you to get Organic Products , Dairy Pr
 - Interactive and responsive UI.
 - Has many graphical and visual innovative effects.
 - Have an aesthetically pleasing visual design .
-- Has  web pages including Home, About , Services, Contact, Fa topics and health related information etc.
+- Has  web pages including Home, About , Services, Contact, Oragic Products  and Agriculture related information etc.
 - User can know about health information through this website.
 - Included the feedback Survey form to increase the scope of improvement 
 
@@ -39,4 +39,7 @@ in my website i create webstore that help you to get Organic Products , Dairy Pr
 
 
 # demo video that i make to show my project:
+
 # azure portal screen shot
+
+![scrnli_8_3_2022_12-15-36 AM](https://user-images.githubusercontent.com/85993420/182450304-0ea3a578-e822-4211-8935-4ac574f1f10d.png)
